@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ashith",
+      "username": "a",
+      "password": "a"
+    },
+    {
+      "id": 2,
+      "name": "Arjun",
+      "username": "a",
+      "password": "a"
+    },
+    {
+      "id": 1689932402888,
+      "name": "Something",
+      "username": "asdsa",
+      "password": "asdsad"
+    },
+    {
+      "id": 1689932443586,
+      "name": "Something",
+      "username": "asdsa",
+      "password": "asdsadads"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "bookName": "Task 100",
+      "author": "none",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "bookName": "Task 2",
+      "author": "none",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "bookName": "Task 3",
+      "author": "none",
+      "price": 300
+    }
+  ],
+  "carts": [
+    {
+      "booksId": 1,
+      "usersId": 1
+    },
+    {
+      "booksId": 2,
+      "usersId": 1
+    }
+  ]
+}
